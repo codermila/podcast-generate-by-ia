@@ -34,7 +34,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/) 
 - [Google AiStudio](https://aistudio.google.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Minimax]https://www.minimax.io/audio/text-to-speech)
+- [Minimax](https://www.minimax.io/audio/text-to-speech)
 - [Capcut](https://www.capcut.com/pt-br/)
 - [Youtube](https://www.youtube.com/)
 - [SoundCloud](https://soundcloud.com/discover)
