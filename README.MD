@@ -12,11 +12,7 @@
         width="50"
         alt="Ep 01: Fronts& Friends">
 </a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
+
 </p>
 
 <p align="center">
