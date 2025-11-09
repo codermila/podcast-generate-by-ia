@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+   
 </p>
 
 <div align="center">
@@ -25,9 +25,6 @@
 
 # Projeto Podcast Gerado por I.A.s
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
@@ -35,10 +32,12 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Google AiStudio](https://aistudio.google.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
+- [Minimax]https://www.minimax.io/audio/text-to-speech)
 - [Capcut](https://www.capcut.com/pt-br/)
-
+- [Youtube](https://www.youtube.com/)
+- [SoundCloud](https://soundcloud.com/discover)
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
