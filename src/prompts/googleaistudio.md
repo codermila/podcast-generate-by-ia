@@ -23,7 +23,7 @@
 > 
 > **Palavras-chave:** pixel art, Central Perk, Friends aesthetic, cafeteria retrô, mulher ruiva tatuada, gorda, neon sign, UX/UI design, cozy, retrô geek, criativo.
 
-##Prompt capa Episodio 1
+## Prompt capa Episodio 1
 ### **Prompt para Studio AI (Google Imagen / Imagen 3)**
 
 > Capa de podcast chamada "Fronts & Friends: Conversas sobre UX, UI e outros bugs emocionais", episódio 1: "O que faz um bom design de experiência?".
@@ -45,3 +45,4 @@
 > 
 > Estilo **realista suave**, com toques ilustrados, foco em **calor humano, criatividade e amizade**, como uma cena de conversa divertida em um café de série de TV.
 >“versão em pixel art 8-bit clássica, com duas personagens femininas sentadas em cafeteria estilo Friends, cores vibrantes e lettering neon pixelado.”
+
