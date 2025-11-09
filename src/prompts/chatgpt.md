@@ -3,9 +3,8 @@
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia e design, focado em front end e design de experiencia do usuario, e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de front end e uxui designer feito por nerds, e que tenha algum trocadilho nerd no nome. O podcast vai falar sobre dicas e novidades sobre o mundo do front end e design ux ui e o que está acontecendo no mercado
+### Ação   | prompt                                                                                                                                                                                                                                                                  
+#### Título  | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia e design, focado em front end e design de experiencia do usuario, e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de front end e uxui designer feito por nerds, e que tenha algum trocadilho nerd no nome. O podcast vai falar sobre dicas e novidades sobre o mundo do front end e design ux ui e o que está acontecendo no mercado
 
 {REGRAS}
 
@@ -22,7 +21,7 @@ ChatGPT：
 
 **Fronts & Friends: Conversas sobre UX, UI e outros bugs emocionais.**                                                      |
 
-| conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, cultura pop, focado em frontend e ux ui design o nome é "**Fronts & Friends: Conversas sobre UX, UI e outros bugs emocionais.**" e tem foco em frontend e design ux ui ,  com o público alvo de iniciantes em frontend e design em geral
+#### Conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, cultura pop, focado em frontend e ux ui design o nome é "**Fronts & Friends: Conversas sobre UX, UI e outros bugs emocionais.**" e tem foco em frontend e design ux ui ,  com o público alvo de iniciantes em frontend e design em geral
 
 o formato do roteiro deve ser
 [INTRODUÇÃO]
