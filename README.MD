@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
+<a href="https://soundcloud.com/aredes-design/podcast-fronts-friends-ep01-o-que-faz-um-bom-design-de-experiencia">
     <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
+        src="./.github/assets/SoundCloud-Logo.png" 
+        alt="Ep 01: Fronts& Friends">
 </a>
 <a href="https://dio.me/">
 <img 
