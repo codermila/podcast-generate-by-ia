@@ -21,5 +21,27 @@ ChatGPT：
 - 
 
 **Fronts & Friends: Conversas sobre UX, UI e outros bugs emocionais.**                                                      |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+
+| conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, cultura pop, focado em frontend e ux ui design o nome é "**Fronts & Friends: Conversas sobre UX, UI e outros bugs emocionais.**" e tem foco em frontend e design ux ui ,  com o público alvo de iniciantes em frontend e design em geral
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade sobre os principios o design de experiencia de usuario
+- no bloco [CURIOSIDADE 2] sobre uma ferramenta para ux design
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Mila e esse foi o Fronts and Friends dessa semana'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Mila, com uma amiga chamada Rachel como participante no primeiro episodio
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração |
 
