@@ -9,6 +9,7 @@
 <a href="https://soundcloud.com/aredes-design/podcast-fronts-friends-ep01-o-que-faz-um-bom-design-de-experiencia">
     <img 
         src="./.github/assets/SoundCloud-Logo.png" 
+        width="50"
         alt="Ep 01: Fronts& Friends">
 </a>
 <a href="https://dio.me/">
